@@ -1,0 +1,6 @@
+venv/
+build/
+dist/
+mybrowser.egg-info/
+*.pyc
+__pycache__/
